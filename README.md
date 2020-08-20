@@ -1,5 +1,6 @@
 # Portfolio
-Public Repository 
 
-List of Notable Projects Completed
 
+**List of Notable Projects Completed**
+
+Project Name: 
